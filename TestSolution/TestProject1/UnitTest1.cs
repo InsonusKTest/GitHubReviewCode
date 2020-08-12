@@ -7,6 +7,7 @@ namespace TestProject1
         [SetUp]
         public void Setup()
         {
+            var ee = 1;
         }
 
         [Test]
